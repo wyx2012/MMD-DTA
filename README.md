@@ -16,8 +16,9 @@ If you have used MMD-DTA or its modules in your research, please cite this paper
   numpy:1.18.1
 
 ##2.Construct a dataset
-  1.Data preprocessing（if you use your new dataset）
-  Please run  create_data.py
+   Data preprocessing:Please download the Davis and Kiba datasets yourself and place them in the Dataset folder
+   then   Please run  create_data.py
+ 
 
 
 ##3.start:
