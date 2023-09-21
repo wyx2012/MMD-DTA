@@ -16,8 +16,11 @@ If you have used MMD-DTA or its modules in your research, please cite this paper
   numpy:1.18.1
 
 ##2.Construct a dataset
-   Data preprocessing:Please download the Davis and Kiba datasets yourself and place them in the Dataset folder
-   then   Please run  create_data.py
+   Data preprocessing:
+   The Davis dataset and Kiba dataset need to be downloaded before use，Please download the Davis and Kiba datasets yourself and place them in the Dataset folder，and run create_data.py
+   The following are the sources of Davis and Kiba:
+   Davis: The comparative toxicogenomics database: update 2013. Nucleic acids research, 41(D1), D1104-D1114.
+   kiba:Making sense of large-scale kinase inhibitor bioactivity data sets: a comparative and integrative analysis. Journal of Chemical Information and Modeling, 54(3), 735-743.
  
 
 
