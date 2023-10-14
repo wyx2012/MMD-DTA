@@ -25,4 +25,4 @@ If you have used MMD-DTA or its modules in your research, please cite this paper
 
 
 ##3.start:
-  python training.py  # BG-DTI
+  python training.py  
